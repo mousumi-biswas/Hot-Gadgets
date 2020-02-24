@@ -68,8 +68,8 @@ body {
 
 .category span {
   padding-bottom: 5px;
-  border-bottom: 5px solid #fdc50b;
-  border-radius: 10px;
+  border-bottom: 7px solid orange;
+  border-radius: 5px;
 }
 
 .categories-card {

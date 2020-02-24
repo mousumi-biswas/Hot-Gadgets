@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+
+  font-family: "Poppins", sans-serif;
+}
+.buy-now-btn {
+  background-color: black;
+
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 15px;
+  cursor: pointer;
+}
+
+.container {
+  margin-bottom: 100px;
+}
+
+.navigation-section {
+  margin-bottom: 0px;
+}
+.carousel-indicators li {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin: 5px;
+  text-indent: 0;
+  border-radius: 60%;
+  cursor: pointer;
+  border: none;
+  background-color: gray;
+}
+.carousel-indicators .active {
+  width: 40px;
+  height: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  background-color: #fdc50b;
+}
+.card {
+  border: none;
+  box-shadow: 3px 3px 15px lightgray;
+  border-radius: 10px;
+  text-align: center;
+  padding: 0px 5px 5px 0px;
+}
+.card img {
+  padding: 30px;
+}
+.card-footer {
+  background-color: white;
+  border: none;
+  text-align: center;
+}
+.cat1 {
+  margin-bottom: 20px;
+}
+.cat1 a {
+  color: #fdc50b;
+  text-decoration: none;
+}
+
+.category h4 {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.category span {
+  padding-bottom: 5px;
+  border-bottom: 5px solid #fdc50b;
+  border-radius: 10px;
+}
+
+.categories-card {
+  height: 220px;
+  width: 240px;
+  border-radius: 50px 0px 50px 0px;
+}
+.categories-card img {
+  height: 150px;
+  width: 150px;
+  margin: auto;
+}
+
+.cate3 {
+  margin-top: 30px;
+}
+
+.tech-cat img {
+  height: 600px;
+  width: 400px;
+  margin: auto;
+}
+
+#subscribe {
+  height: 300px;
+}
+#subscribe h6 {
+  color: #808080;
+}
+
+footer {
+  text-align: center;
+}
